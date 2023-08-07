@@ -1,0 +1,8 @@
+D:\school\SDEV1060\ShippingCosts\ShippingCosts\bin\Debug\ShippingCosts.exe.config
+D:\school\SDEV1060\ShippingCosts\ShippingCosts\bin\Debug\ShippingCosts.exe
+D:\school\SDEV1060\ShippingCosts\ShippingCosts\bin\Debug\ShippingCosts.pdb
+D:\school\SDEV1060\ShippingCosts\ShippingCosts\obj\Debug\ShippingCosts.csproj.AssemblyReference.cache
+D:\school\SDEV1060\ShippingCosts\ShippingCosts\obj\Debug\ShippingCosts.csproj.SuggestedBindingRedirects.cache
+D:\school\SDEV1060\ShippingCosts\ShippingCosts\obj\Debug\ShippingCosts.csproj.CoreCompileInputs.cache
+D:\school\SDEV1060\ShippingCosts\ShippingCosts\obj\Debug\ShippingCosts.exe
+D:\school\SDEV1060\ShippingCosts\ShippingCosts\obj\Debug\ShippingCosts.pdb

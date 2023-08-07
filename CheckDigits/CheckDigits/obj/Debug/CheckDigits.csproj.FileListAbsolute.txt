@@ -1,0 +1,8 @@
+D:\school\SDEV1060\CheckDigits\CheckDigits\bin\Debug\CheckDigits.exe.config
+D:\school\SDEV1060\CheckDigits\CheckDigits\bin\Debug\CheckDigits.exe
+D:\school\SDEV1060\CheckDigits\CheckDigits\bin\Debug\CheckDigits.pdb
+D:\school\SDEV1060\CheckDigits\CheckDigits\obj\Debug\CheckDigits.csproj.AssemblyReference.cache
+D:\school\SDEV1060\CheckDigits\CheckDigits\obj\Debug\CheckDigits.csproj.SuggestedBindingRedirects.cache
+D:\school\SDEV1060\CheckDigits\CheckDigits\obj\Debug\CheckDigits.csproj.CoreCompileInputs.cache
+D:\school\SDEV1060\CheckDigits\CheckDigits\obj\Debug\CheckDigits.exe
+D:\school\SDEV1060\CheckDigits\CheckDigits\obj\Debug\CheckDigits.pdb

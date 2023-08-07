@@ -1,0 +1,15 @@
+D:\school\SDEV1060\Project4CheckLeapYear\Project4CheckLeapYear\bin\Debug\net6.0\Project4CheckLeapYear.exe
+D:\school\SDEV1060\Project4CheckLeapYear\Project4CheckLeapYear\bin\Debug\net6.0\Project4CheckLeapYear.deps.json
+D:\school\SDEV1060\Project4CheckLeapYear\Project4CheckLeapYear\bin\Debug\net6.0\Project4CheckLeapYear.runtimeconfig.json
+D:\school\SDEV1060\Project4CheckLeapYear\Project4CheckLeapYear\bin\Debug\net6.0\Project4CheckLeapYear.dll
+D:\school\SDEV1060\Project4CheckLeapYear\Project4CheckLeapYear\bin\Debug\net6.0\Project4CheckLeapYear.pdb
+D:\school\SDEV1060\Project4CheckLeapYear\Project4CheckLeapYear\obj\Debug\net6.0\Project4CheckLeapYear.csproj.AssemblyReference.cache
+D:\school\SDEV1060\Project4CheckLeapYear\Project4CheckLeapYear\obj\Debug\net6.0\Project4CheckLeapYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV1060\Project4CheckLeapYear\Project4CheckLeapYear\obj\Debug\net6.0\Project4CheckLeapYear.AssemblyInfoInputs.cache
+D:\school\SDEV1060\Project4CheckLeapYear\Project4CheckLeapYear\obj\Debug\net6.0\Project4CheckLeapYear.AssemblyInfo.cs
+D:\school\SDEV1060\Project4CheckLeapYear\Project4CheckLeapYear\obj\Debug\net6.0\Project4CheckLeapYear.csproj.CoreCompileInputs.cache
+D:\school\SDEV1060\Project4CheckLeapYear\Project4CheckLeapYear\obj\Debug\net6.0\Project4CheckLeapYear.dll
+D:\school\SDEV1060\Project4CheckLeapYear\Project4CheckLeapYear\obj\Debug\net6.0\refint\Project4CheckLeapYear.dll
+D:\school\SDEV1060\Project4CheckLeapYear\Project4CheckLeapYear\obj\Debug\net6.0\Project4CheckLeapYear.pdb
+D:\school\SDEV1060\Project4CheckLeapYear\Project4CheckLeapYear\obj\Debug\net6.0\Project4CheckLeapYear.genruntimeconfig.cache
+D:\school\SDEV1060\Project4CheckLeapYear\Project4CheckLeapYear\obj\Debug\net6.0\ref\Project4CheckLeapYear.dll

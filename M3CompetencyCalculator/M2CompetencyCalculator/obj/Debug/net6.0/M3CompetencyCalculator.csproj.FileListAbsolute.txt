@@ -1,0 +1,15 @@
+D:\school\SDEV1060\M3CompetencyCalculator\M2CompetencyCalculator\bin\Debug\net6.0\M3CompetencyCalculator.exe
+D:\school\SDEV1060\M3CompetencyCalculator\M2CompetencyCalculator\bin\Debug\net6.0\M3CompetencyCalculator.deps.json
+D:\school\SDEV1060\M3CompetencyCalculator\M2CompetencyCalculator\bin\Debug\net6.0\M3CompetencyCalculator.runtimeconfig.json
+D:\school\SDEV1060\M3CompetencyCalculator\M2CompetencyCalculator\bin\Debug\net6.0\M3CompetencyCalculator.dll
+D:\school\SDEV1060\M3CompetencyCalculator\M2CompetencyCalculator\bin\Debug\net6.0\M3CompetencyCalculator.pdb
+D:\school\SDEV1060\M3CompetencyCalculator\M2CompetencyCalculator\obj\Debug\net6.0\M3CompetencyCalculator.csproj.AssemblyReference.cache
+D:\school\SDEV1060\M3CompetencyCalculator\M2CompetencyCalculator\obj\Debug\net6.0\M3CompetencyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV1060\M3CompetencyCalculator\M2CompetencyCalculator\obj\Debug\net6.0\M3CompetencyCalculator.AssemblyInfoInputs.cache
+D:\school\SDEV1060\M3CompetencyCalculator\M2CompetencyCalculator\obj\Debug\net6.0\M3CompetencyCalculator.AssemblyInfo.cs
+D:\school\SDEV1060\M3CompetencyCalculator\M2CompetencyCalculator\obj\Debug\net6.0\M3CompetencyCalculator.csproj.CoreCompileInputs.cache
+D:\school\SDEV1060\M3CompetencyCalculator\M2CompetencyCalculator\obj\Debug\net6.0\M3CompetencyCalculator.dll
+D:\school\SDEV1060\M3CompetencyCalculator\M2CompetencyCalculator\obj\Debug\net6.0\refint\M3CompetencyCalculator.dll
+D:\school\SDEV1060\M3CompetencyCalculator\M2CompetencyCalculator\obj\Debug\net6.0\M3CompetencyCalculator.pdb
+D:\school\SDEV1060\M3CompetencyCalculator\M2CompetencyCalculator\obj\Debug\net6.0\M3CompetencyCalculator.genruntimeconfig.cache
+D:\school\SDEV1060\M3CompetencyCalculator\M2CompetencyCalculator\obj\Debug\net6.0\ref\M3CompetencyCalculator.dll

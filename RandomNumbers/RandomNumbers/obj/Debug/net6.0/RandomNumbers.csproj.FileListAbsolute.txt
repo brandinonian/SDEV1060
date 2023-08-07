@@ -1,0 +1,15 @@
+D:\school\SDEV1060\RandomNumbers\RandomNumbers\bin\Debug\net6.0\RandomNumbers.exe
+D:\school\SDEV1060\RandomNumbers\RandomNumbers\bin\Debug\net6.0\RandomNumbers.deps.json
+D:\school\SDEV1060\RandomNumbers\RandomNumbers\bin\Debug\net6.0\RandomNumbers.runtimeconfig.json
+D:\school\SDEV1060\RandomNumbers\RandomNumbers\bin\Debug\net6.0\RandomNumbers.dll
+D:\school\SDEV1060\RandomNumbers\RandomNumbers\bin\Debug\net6.0\RandomNumbers.pdb
+D:\school\SDEV1060\RandomNumbers\RandomNumbers\obj\Debug\net6.0\RandomNumbers.csproj.AssemblyReference.cache
+D:\school\SDEV1060\RandomNumbers\RandomNumbers\obj\Debug\net6.0\RandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV1060\RandomNumbers\RandomNumbers\obj\Debug\net6.0\RandomNumbers.AssemblyInfoInputs.cache
+D:\school\SDEV1060\RandomNumbers\RandomNumbers\obj\Debug\net6.0\RandomNumbers.AssemblyInfo.cs
+D:\school\SDEV1060\RandomNumbers\RandomNumbers\obj\Debug\net6.0\RandomNumbers.csproj.CoreCompileInputs.cache
+D:\school\SDEV1060\RandomNumbers\RandomNumbers\obj\Debug\net6.0\RandomNumbers.dll
+D:\school\SDEV1060\RandomNumbers\RandomNumbers\obj\Debug\net6.0\refint\RandomNumbers.dll
+D:\school\SDEV1060\RandomNumbers\RandomNumbers\obj\Debug\net6.0\RandomNumbers.pdb
+D:\school\SDEV1060\RandomNumbers\RandomNumbers\obj\Debug\net6.0\RandomNumbers.genruntimeconfig.cache
+D:\school\SDEV1060\RandomNumbers\RandomNumbers\obj\Debug\net6.0\ref\RandomNumbers.dll

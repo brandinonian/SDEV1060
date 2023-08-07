@@ -1,0 +1,8 @@
+D:\school\SDEV1060\Project8TipCalculator\Project8TipCalculator\bin\Debug\Project8TipCalculator.exe.config
+D:\school\SDEV1060\Project8TipCalculator\Project8TipCalculator\bin\Debug\Project8TipCalculator.exe
+D:\school\SDEV1060\Project8TipCalculator\Project8TipCalculator\bin\Debug\Project8TipCalculator.pdb
+D:\school\SDEV1060\Project8TipCalculator\Project8TipCalculator\obj\Debug\Project8TipCalculator.csproj.AssemblyReference.cache
+D:\school\SDEV1060\Project8TipCalculator\Project8TipCalculator\obj\Debug\Project8TipCalculator.csproj.SuggestedBindingRedirects.cache
+D:\school\SDEV1060\Project8TipCalculator\Project8TipCalculator\obj\Debug\Project8TipCalculator.csproj.CoreCompileInputs.cache
+D:\school\SDEV1060\Project8TipCalculator\Project8TipCalculator\obj\Debug\Project8TipCalculator.exe
+D:\school\SDEV1060\Project8TipCalculator\Project8TipCalculator\obj\Debug\Project8TipCalculator.pdb

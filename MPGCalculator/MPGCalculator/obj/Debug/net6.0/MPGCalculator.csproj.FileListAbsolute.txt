@@ -1,0 +1,15 @@
+D:\school\SDEV1060\MPGCalculator\MPGCalculator\obj\Debug\net6.0\MPGCalculator.csproj.AssemblyReference.cache
+D:\school\SDEV1060\MPGCalculator\MPGCalculator\obj\Debug\net6.0\MPGCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV1060\MPGCalculator\MPGCalculator\obj\Debug\net6.0\MPGCalculator.AssemblyInfoInputs.cache
+D:\school\SDEV1060\MPGCalculator\MPGCalculator\obj\Debug\net6.0\MPGCalculator.AssemblyInfo.cs
+D:\school\SDEV1060\MPGCalculator\MPGCalculator\obj\Debug\net6.0\MPGCalculator.csproj.CoreCompileInputs.cache
+D:\school\SDEV1060\MPGCalculator\MPGCalculator\bin\Debug\net6.0\MPGCalculator.exe
+D:\school\SDEV1060\MPGCalculator\MPGCalculator\bin\Debug\net6.0\MPGCalculator.deps.json
+D:\school\SDEV1060\MPGCalculator\MPGCalculator\bin\Debug\net6.0\MPGCalculator.runtimeconfig.json
+D:\school\SDEV1060\MPGCalculator\MPGCalculator\bin\Debug\net6.0\MPGCalculator.dll
+D:\school\SDEV1060\MPGCalculator\MPGCalculator\bin\Debug\net6.0\MPGCalculator.pdb
+D:\school\SDEV1060\MPGCalculator\MPGCalculator\obj\Debug\net6.0\MPGCalculator.dll
+D:\school\SDEV1060\MPGCalculator\MPGCalculator\obj\Debug\net6.0\refint\MPGCalculator.dll
+D:\school\SDEV1060\MPGCalculator\MPGCalculator\obj\Debug\net6.0\MPGCalculator.pdb
+D:\school\SDEV1060\MPGCalculator\MPGCalculator\obj\Debug\net6.0\MPGCalculator.genruntimeconfig.cache
+D:\school\SDEV1060\MPGCalculator\MPGCalculator\obj\Debug\net6.0\ref\MPGCalculator.dll

@@ -1,0 +1,15 @@
+D:\school\SDEV1060\Rectangle\Rectangle\bin\Debug\net6.0\Rectangle.exe
+D:\school\SDEV1060\Rectangle\Rectangle\bin\Debug\net6.0\Rectangle.deps.json
+D:\school\SDEV1060\Rectangle\Rectangle\bin\Debug\net6.0\Rectangle.runtimeconfig.json
+D:\school\SDEV1060\Rectangle\Rectangle\bin\Debug\net6.0\Rectangle.dll
+D:\school\SDEV1060\Rectangle\Rectangle\bin\Debug\net6.0\Rectangle.pdb
+D:\school\SDEV1060\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.csproj.AssemblyReference.cache
+D:\school\SDEV1060\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\SDEV1060\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.AssemblyInfoInputs.cache
+D:\school\SDEV1060\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.AssemblyInfo.cs
+D:\school\SDEV1060\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.csproj.CoreCompileInputs.cache
+D:\school\SDEV1060\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.dll
+D:\school\SDEV1060\Rectangle\Rectangle\obj\Debug\net6.0\refint\Rectangle.dll
+D:\school\SDEV1060\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.pdb
+D:\school\SDEV1060\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.genruntimeconfig.cache
+D:\school\SDEV1060\Rectangle\Rectangle\obj\Debug\net6.0\ref\Rectangle.dll

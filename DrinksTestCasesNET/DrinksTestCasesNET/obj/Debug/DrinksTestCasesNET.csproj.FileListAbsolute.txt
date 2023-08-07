@@ -1,0 +1,15 @@
+L:\DATC\SDEV-1060\projects-NET\DrinksTestCasesNET\DrinksTestCasesNET\bin\Debug\DrinksTestCasesNET.exe.config
+L:\DATC\SDEV-1060\projects-NET\DrinksTestCasesNET\DrinksTestCasesNET\bin\Debug\DrinksTestCasesNET.exe
+L:\DATC\SDEV-1060\projects-NET\DrinksTestCasesNET\DrinksTestCasesNET\bin\Debug\DrinksTestCasesNET.pdb
+L:\DATC\SDEV-1060\projects-NET\DrinksTestCasesNET\DrinksTestCasesNET\obj\Debug\DrinksTestCasesNET.csprojAssemblyReference.cache
+L:\DATC\SDEV-1060\projects-NET\DrinksTestCasesNET\DrinksTestCasesNET\obj\Debug\DrinksTestCasesNET.csproj.CoreCompileInputs.cache
+L:\DATC\SDEV-1060\projects-NET\DrinksTestCasesNET\DrinksTestCasesNET\obj\Debug\DrinksTestCasesNET.exe
+L:\DATC\SDEV-1060\projects-NET\DrinksTestCasesNET\DrinksTestCasesNET\obj\Debug\DrinksTestCasesNET.pdb
+D:\school\SDEV1060\DrinksTestCasesNET\DrinksTestCasesNET\bin\Debug\DrinksTestCasesNET.exe.config
+D:\school\SDEV1060\DrinksTestCasesNET\DrinksTestCasesNET\bin\Debug\DrinksTestCasesNET.exe
+D:\school\SDEV1060\DrinksTestCasesNET\DrinksTestCasesNET\bin\Debug\DrinksTestCasesNET.pdb
+D:\school\SDEV1060\DrinksTestCasesNET\DrinksTestCasesNET\obj\Debug\DrinksTestCasesNET.csproj.AssemblyReference.cache
+D:\school\SDEV1060\DrinksTestCasesNET\DrinksTestCasesNET\obj\Debug\DrinksTestCasesNET.csproj.SuggestedBindingRedirects.cache
+D:\school\SDEV1060\DrinksTestCasesNET\DrinksTestCasesNET\obj\Debug\DrinksTestCasesNET.csproj.CoreCompileInputs.cache
+D:\school\SDEV1060\DrinksTestCasesNET\DrinksTestCasesNET\obj\Debug\DrinksTestCasesNET.exe
+D:\school\SDEV1060\DrinksTestCasesNET\DrinksTestCasesNET\obj\Debug\DrinksTestCasesNET.pdb
